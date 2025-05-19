@@ -96,7 +96,7 @@ HTML, CSS, Javascript, Bootstrap, Python, Flask
 
 ## Feedback
 
-If you have any feedback, please reach out to us at esame4166@gmail.com
+If you have any feedback, please reach out to me.
 
 
 ## Screenshots
